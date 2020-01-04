@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "TCPClient/1.0.0": {
+        "dependencies": {
+          "AMQPNetLite": "2.3.0"
+        },
+        "runtime": {
+          "TCPClient.dll": {}
+        }
+      },
+      "AMQPNetLite/2.3.0": {
+        "dependencies": {
+          "AMQPNetLite.Core": "2.3.0"
+        }
+      },
+      "AMQPNetLite.Core/2.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/Amqp.Net.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AMQPNetLite/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pYYf73jIlsuTNCwwd2SGWHWvc2/CE3nxyXxhe9llxO04yFT65zrr95s9A3IsiOtf6hlAegA2TEko9CpnClHuDw==",
+      "path": "amqpnetlite/2.3.0",
+      "hashPath": "amqpnetlite.2.3.0.nupkg.sha512"
+    },
+    "AMQPNetLite.Core/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7U3Zz/alXVqSdhJ9wguaJQwjJ28nUi9FRJACbNjH7lKt1gHm5h1QKSg/BIuYiXTLw0cRYdEZCi4O4I6/GBbaOQ==",
+      "path": "amqpnetlite.core/2.3.0",
+      "hashPath": "amqpnetlite.core.2.3.0.nupkg.sha512"
+    }
+  }
+}

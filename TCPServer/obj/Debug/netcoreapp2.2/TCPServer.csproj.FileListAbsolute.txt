@@ -1,0 +1,9 @@
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\bin\Debug\netcoreapp2.2\TCPServer.deps.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\bin\Debug\netcoreapp2.2\TCPServer.runtimeconfig.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\bin\Debug\netcoreapp2.2\TCPServer.runtimeconfig.dev.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\bin\Debug\netcoreapp2.2\TCPServer.dll
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\bin\Debug\netcoreapp2.2\TCPServer.pdb
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\obj\Debug\netcoreapp2.2\TCPServer.AssemblyInfoInputs.cache
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\obj\Debug\netcoreapp2.2\TCPServer.AssemblyInfo.cs
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\obj\Debug\netcoreapp2.2\TCPServer.dll
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\obj\Debug\netcoreapp2.2\TCPServer.pdb

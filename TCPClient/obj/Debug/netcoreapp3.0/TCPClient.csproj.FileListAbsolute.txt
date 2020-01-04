@@ -1,0 +1,13 @@
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.exe
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.AssemblyInfoInputs.cache
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.AssemblyInfo.cs
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.deps.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.runtimeconfig.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.runtimeconfig.dev.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.dll
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp3.0\TCPClient.pdb
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp3.0\Amqp.Net.dll
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.csproj.CopyComplete
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.dll
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.pdb
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\obj\Debug\netcoreapp3.0\TCPClient.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.exe
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.deps.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.runtimeconfig.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.runtimeconfig.dev.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.dll
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.pdb
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.AssemblyInfoInputs.cache
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.AssemblyInfo.cs
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.dll
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.pdb
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.csprojAssemblyReference.cache

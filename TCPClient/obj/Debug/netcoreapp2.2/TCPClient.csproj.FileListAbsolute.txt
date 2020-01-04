@@ -1,0 +1,10 @@
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp2.2\TCPClient.deps.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp2.2\TCPClient.runtimeconfig.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp2.2\TCPClient.runtimeconfig.dev.json
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp2.2\TCPClient.dll
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\bin\Debug\netcoreapp2.2\TCPClient.pdb
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\obj\Debug\netcoreapp2.2\TCPClient.AssemblyInfoInputs.cache
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\obj\Debug\netcoreapp2.2\TCPClient.AssemblyInfo.cs
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\obj\Debug\netcoreapp2.2\TCPClient.dll
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\obj\Debug\netcoreapp2.2\TCPClient.pdb
+C:\Users\heyangming\Source\Repos\TCP服务端\TCPClient\obj\Debug\netcoreapp2.2\TCPClient.csprojAssemblyReference.cache
